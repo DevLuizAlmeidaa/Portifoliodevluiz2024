@@ -13,15 +13,9 @@
 }
 
 h2 {
-    font-family: 'arial black', cursive;
+    font-family: 'Press Start 2P', cursive;
     font-size: 45px;
     color: white;
-    padding-bottom: 70px;
-    width: 100%;
-    border radius: 10px;
-
-
-
 }
 
 .circulo {
@@ -83,9 +77,6 @@ h2 {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding-bottom: 70px;
 }
 
 .sobre-mim p {
@@ -93,7 +84,6 @@ h2 {
     font-size: 20px;
     max-width: 609.25px;
     color: white;
-    padding-bottom: 70px;
 }
 
 @media (max-width:1200px) {
